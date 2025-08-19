@@ -1,8 +1,8 @@
 <!-- GitHub Profile README for yos4i -->
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="120" alt="yos4i avatar" style="border-radius:50%">
-</p>
+//<p align="center">
+//  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="120" alt="yos4i avatar" style="border-radius:50%">
+//</p>
 
 # 👋 Hi, I'm Yossi (yos4i)
 
