@@ -16,7 +16,7 @@ Passionate about building efficient and innovative solutions, I thrive at the in
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills
 
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=fff)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=fff)
@@ -26,6 +26,23 @@ Passionate about building efficient and innovative solutions, I thrive at the in
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=fff)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+
+---
+
+## 🧰 Tools & Technologies
+
+![Flex](https://img.shields.io/badge/Flex-02569B?logo=flex&logoColor=fff)
+![Bison](https://img.shields.io/badge/Bison-5A5A5A?logo=gnu&logoColor=fff)
+![Word2Vec](https://img.shields.io/badge/Word2Vec-339933?logo=python&logoColor=fff)
+![WordNet](https://img.shields.io/badge/WordNet-3776AB?logo=python&logoColor=fff)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)
+![Firebase Realtime DB](https://img.shields.io/badge/Firebase_DB-039BE5?logo=firebase&logoColor=fff)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=reactrouter&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff)
+![OpenMP](https://img.shields.io/badge/OpenMP-002244?logo=c&logoColor=fff)
+![MPI](https://img.shields.io/badge/MPI-3333cc?logo=c&logoColor=fff)
+![Linux Shell](https://img.shields.io/badge/Shell_Scripting-121011?logo=gnu-bash&logoColor=white)
 
 **Fields:**  
 - Compiler Construction (Flex, Bison, 3AC)
