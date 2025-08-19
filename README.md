@@ -57,7 +57,7 @@ Passionate about building efficient and innovative solutions, I thrive at the in
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](www.linkedin.com/in/yossi-elbaz-289a21277)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com/in/yossi-elbaz-289a21277)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/yos4i)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff)](mailto:Yossi5196@gmail.com)
 
