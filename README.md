@@ -66,10 +66,6 @@ Passionate about building efficient and innovative solutions, I thrive at the in
 > **Real-time poker game manager**  
 > _React + Firebase, admin/guest roles, history tracking_
 
-### [Tournament Manager](#)
-> **Poker tournament management app**  
-> _Timer, stages, templates, Firebase persistence_
-
 ---
 
 ## 📫 Connect with Me
